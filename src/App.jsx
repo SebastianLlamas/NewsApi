@@ -10,6 +10,7 @@ function App() {
             Buscador de Noticias
           </Typography>
         </header>
+        <Gr
         <Formulario></Formulario>
     </Container>
   )
